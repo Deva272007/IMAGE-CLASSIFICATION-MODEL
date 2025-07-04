@@ -95,5 +95,7 @@ This notebook provides a complete pipeline for image classification using CNNs. 
 
 *OUTPUT*=
 
+![Image](https://github.com/user-attachments/assets/c94f3f43-7556-44d4-94fa-08520eaeb83e)
+
 
 
